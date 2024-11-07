@@ -2,10 +2,10 @@ My express generator
 Link https://f24wb31yenumula.onrender.com
 
 
-# Toys
+# Kites
 
-| Name          | Type            | Age Range    |
+| Color          | Material           | Length   |
 |---------------|-----------------|--------------|
-| Teddy Bear    | Stuffed Animal  | 3-6 years    |
-| Lego Set      | Building Blocks | 5-12 years   |
-| Action Figure | Figurine        | 4-10 years   |
+|   Red         |     Nylon       | 1.5 meters   |
+|   Blue        |     Silk        | 2 meters     |
+|   Green       |     Plastic     | 1.8 meters   |
